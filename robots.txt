@@ -1,0 +1,4 @@
+User-agent: [user-agent name]
+Allow: [URL to crawl]
+Disallow: [URL string not to be crawled]
+Sitemap: [sitemap-xml URL]
